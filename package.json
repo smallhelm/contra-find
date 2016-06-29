@@ -1,6 +1,6 @@
 {
   "name": "contra-find",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Using contra, asynchronously find a value in a collection that matches a condition.",
   "main": "index.js",
   "scripts": {

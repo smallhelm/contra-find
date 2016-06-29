@@ -1,0 +1,29 @@
+{
+  "name": "contra-find",
+  "version": "0.0.0",
+  "description": "Using contra, asynchronously find a value in a collection that matches a condition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallhelm/contra-find.git"
+  },
+  "keywords": [
+    "contra",
+    "async",
+    "find",
+    "asynchronous"
+  ],
+  "author": "farskipper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smallhelm/contra-find/issues"
+  },
+  "homepage": "https://github.com/smallhelm/contra-find#readme",
+  "devDependencies": {
+    "contra": "^1.9.4",
+    "tape": "^4.6.0"
+  }
+}
